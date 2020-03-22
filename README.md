@@ -1,9 +1,9 @@
-# pirouette_example_28
+# pirouette_example_36
 
 Branch   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)                                                                                                 |[![AppVeyor logo](pics/AppVeyor.png)](https://appveyor.com)                                                                                               
 ---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------
-`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_28.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_28) |.
-`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_28.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_28)|.
+`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_36.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_36) |.
+`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_36.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_36)|.
 
 A [pirouette example](https://github.com/richelbilderbeek/pirouette_examples)
 that shows the pirouette plot for multiple DD trees.
@@ -32,7 +32,7 @@ sbatch scripts/rerun.sh
 ## Results
 
  * Download the intermediate data at 
-   [https://www.richelbilderbeek.nl/pirouette_example_28.zip](https://www.richelbilderbeek.nl/pirouette_example_28.zip)
+   [https://www.richelbilderbeek.nl/pirouette_example_36.zip](https://www.richelbilderbeek.nl/pirouette_example_36.zip)
 
 ![](errors.png)
 
